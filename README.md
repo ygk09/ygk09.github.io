@@ -1,17 +1,23 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# Codinfox-Lanyon
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+**If you like this project, PLEASE give it a star.**
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+
+The theme supports: 
+
+1. Theme colors: you can choose your favorite theme color
+2. Changable sidebar locations
+3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
+4. and numerous improvements over original Lanyon
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
